@@ -1,4 +1,5 @@
-# Softnerve Book Agent - Automated Book Publication Workflow
+▶️ YouTube Demo: [Watch Here](https://www.youtube.com/watch?v=B3IQRdgbdDM&list=PLe-YIIlt-fbNajMvdZoBUdjZNbmLOMJSU&index=2&ab_channel=Jatin)  
+# 📕Softnerve Book Agent - Automated Book Publication Workflow
 
 An advanced automated chapter rewriter with multi-agent AI system, Human-in-the-Loop (HITL) capabilities, RL-based reward system, and semantic search using LangGraph.
 
