@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Chapter Rewriter
+=======
+▶️ YouTube Demo: [Watch Here](https://www.youtube.com/watch?v=B3IQRdgbdDM&list=PLe-YIIlt-fbNajMvdZoBUdjZNbmLOMJSU&index=2&ab_channel=Jatin)  
+# 📕Softnerve Book Agent - Automated Book Publication Workflow
+>>>>>>> 8b749b003d24ae5abd4a739c3e59f42cb3a3ae8b
 
 A simple LangGraph-based tool that scrapes book chapters from URLs, rewrites them using AI, and provides quality metrics.
 
