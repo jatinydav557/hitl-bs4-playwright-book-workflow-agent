@@ -18,6 +18,7 @@ def scrape_chapter(state):
         
         # Try to find main content
         main_content = soup.find('div', class_='mw-parser-output')
+        
         if main_content:
             text = main_content.get_text()
         else:
